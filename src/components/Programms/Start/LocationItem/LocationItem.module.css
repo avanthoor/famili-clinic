@@ -1,0 +1,9 @@
+.locationItem {
+    border: none;
+    padding: 10px 20px;
+    background: #DCE3F9;
+    color: #213BA0;
+    border-radius: 8px;
+    font-size: 14px;
+    font-weight: 500;
+}
